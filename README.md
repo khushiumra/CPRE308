@@ -1,4 +1,4 @@
-Iowa State University - Course CprE 308
+# Iowa State University - Course CprE 308
 
 CprE 308 - Operating Systems: Principles and Practise
 
@@ -9,7 +9,7 @@ memory, file systems, I/O systems, security, and the basics of networking.
 This class consisted of 8 labs and 2 projects, where we utilized our knowledge of the C programming language and a working knowledge of the 
 Linux operating system. 
 
-# The labs for this class were as follows:
+# The labs for this class were:
 
 1) Lab 1: Introduction to Linux
 2) Lab 2: UNIX Processes
